@@ -11,3 +11,6 @@ Restaurant Ratings: Users can quickly compare restaurant ratings and reviews fro
 Exclusive Deals: Restaurently provides access to exclusive deals and promotions available at various restaurants.
 Booking Functionality: Users have the convenience of booking a table directly through the website, streamlining the reservation process.
 Restaurently not only simplifies restaurant selection but also enhances the overall dining experience, making it a valuable tool for food enthusiasts and diners seeking quality dining options and savings.
+This project is licensed under the MIT License.
+
+Contact For inquiries or suggestions, please contact at contact.harisfirdous@gmail.com
